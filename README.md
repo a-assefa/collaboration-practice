@@ -1,2 +1,2 @@
 # collaboration-practice
-The quick brown fox
+The quick brown fox jumped over
